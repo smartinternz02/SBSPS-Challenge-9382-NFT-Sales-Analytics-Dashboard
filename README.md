@@ -5,6 +5,8 @@
 
  🤩 Hi... everyone 
  
+ Dashboard Link - https://app.powerbi.com/groups/me/reports/10037147-0797-49a2-97a4-710f35453b7c/ReportSection?ctid=197384f7-2b72-4f9a-9349-3ceeef912c13
+ 
 ### Branch Name - **NFTDashboard**
 
  This dashboard have all sales stats in one page 📈 📉 📊
